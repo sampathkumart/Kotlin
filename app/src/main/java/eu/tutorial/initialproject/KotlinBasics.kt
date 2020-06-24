@@ -52,4 +52,20 @@ fun main(){
     print("matching  $match")
 
     println(" 60greater4 ${60>4}")
+
+    //6
+    //Assignment operators(+=, -=, *=, /=, %=)
+    var price= 45
+    price *= 6
+    println("price is $price")
+
+    //Increment & Decrement operators( ++, --)
+
+    price --
+    println("price $price;")
+
+    price ++
+    println("price $price")
+    println("price ${++price}")
+
 }
