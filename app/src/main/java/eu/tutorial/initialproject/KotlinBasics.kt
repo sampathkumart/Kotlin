@@ -44,5 +44,12 @@ fun main(){
     val score2 = 2.85665544
     var result : Double
     result = score * score2
-    print(result)
+//    print(result)
+
+    //5.
+    //Comparison Operators(==, !=, <, >, <=, >=)
+    var match = 5==-5
+    print("matching  $match")
+
+    println(" 60greater4 ${60>4}")
 }
