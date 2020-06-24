@@ -36,6 +36,13 @@ fun main(){
     val team = "sgp stars"
     var firstChar = team[3]
     var lastChar = team[team.length -1]
-    print("last character " + lastChar)
+//    print("last character " + lastChar)
 
+    //4.
+    //Arithmetic operators (+, -, *, /, %)
+    var score = 12.54555455
+    val score2 = 2.85665544
+    var result : Double
+    result = score * score2
+    print(result)
 }
